@@ -1,5 +1,5 @@
 # 8 Ball Pool Aim Guide
-Used to improve aim on the Miniclip 8 Ball Pool game. This is very crude and not refined at all as I made in around an hour after not writing JavaScript for a year.
+Used to improve aim on the Miniclip 8 Ball Pool game. This is very crude and not refined at all as I made in around an hour after not writing JavaScript for a year. It was a small project that I saw someone else do and wanted to try and replicate it.
 <p align="center">
 <img width="600px" src="https://github.com/LouisFarmer/8-Ball-Pool-Guide/blob/master/8%20Ball%20Pool%20Guide/img/8ball.png" />
 </p>

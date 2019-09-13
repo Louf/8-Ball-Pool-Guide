@@ -11,4 +11,4 @@ Used to improve aim on the Miniclip 8 Ball Pool game. This is very crude and not
  * <kbd>Shift</kbd> + <kbd>Backspace</kbd> Sets the centre on the ball
  * Win lots of games!
 
-_Note: This extension is really at its early stage. Things may break anytime._
+Note: This was made very quickly, things may break/not work at any point. There's nothing to worry about, though.

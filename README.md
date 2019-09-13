@@ -7,7 +7,7 @@ Used to improve aim on the Miniclip 8 Ball Pool game. This is very crude and not
 ### **How to use**
  * Load the unpacked extension in Google Chrome.
  * Visit https://www.miniclip.com/games/8-ball-pool-multiplayer/ to use the tool.
- * <kbd>Shift</kbd> + <kbd>Alt/Option</kbd> Lets you set the locatins of the holes
+ * <kbd>Shift</kbd> + <kbd>Alt/Option</kbd> Lets you set the locations of the holes
  * <kbd>Shift</kbd> + <kbd>Backspace</kbd> Sets the centre on the ball
  * Win lots of games!
 
